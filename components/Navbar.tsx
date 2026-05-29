@@ -19,7 +19,7 @@ export default function Navbar() {
                 href="/"
                 className="font-bold text-2xl"
             >
-                🌍 AI Translator
+                🌍 Tarjimon ilovasi
             </Link>
 
             <div className="hidden md:flex items-center gap-6">
